@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/huhs-net-frontend/static/js/main.b303fa4a.js",
+    "main.js": "/huhs-net-frontend/static/js/main.84d4aafd.js",
     "index.html": "/huhs-net-frontend/index.html",
-    "main.b303fa4a.js.map": "/huhs-net-frontend/static/js/main.b303fa4a.js.map"
+    "main.84d4aafd.js.map": "/huhs-net-frontend/static/js/main.84d4aafd.js.map"
   },
   "entrypoints": [
-    "static/js/main.b303fa4a.js"
+    "static/js/main.84d4aafd.js"
   ]
 }
