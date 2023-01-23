@@ -1,5 +1,8 @@
+import { RouterProvider } from "react-router-dom";
+import router from "./routes/components/Router";
+
 function App() {
-  return <div>HUHS NET 2.0 TEST</div>;
+  return <RouterProvider router={router} />;
 }
 
 export default App;
